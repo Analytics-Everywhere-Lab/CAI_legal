@@ -1,0 +1,7 @@
+pandas
+openai==1.78.0
+gradio
+datasets
+python-dotenv
+jsonlines
+nltk
